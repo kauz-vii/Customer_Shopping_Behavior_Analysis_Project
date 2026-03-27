@@ -138,7 +138,7 @@ Built an **interactive dashboard** for stakeholders.
 
 <p align="center">
   <img src="https://github.com/kauz-vii/Customer_Intelligence_and_Revenue_Optimization_System/blob/main/dashboard.jpg"/>
-  <img src="https://github.com/kauz-vii/Customer_Intelligence_and_Revenue_Optimization_System/blob/main/RFM-chart.jpg"/>
+  <img src="https://github.com/kauz-vii/Customer_Intelligence_and_Revenue_Optimization_System/blob/main/RFM-chart.jpg" width="200"/>
 </p>
 
 ---
