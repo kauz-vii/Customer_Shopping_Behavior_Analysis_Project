@@ -1,4 +1,4 @@
-# 📊 Customer Behavior Analytics (End-to-End Data Project)
+# 📊 Customer Intelligence & Revenue Optimization System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20PowerBI-blue?style=for-the-badge"/>
