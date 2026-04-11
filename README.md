@@ -235,6 +235,3 @@ This project demonstrates:
   </a>
 </p>
 
-
-
-
